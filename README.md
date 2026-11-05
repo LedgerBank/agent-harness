@@ -21,6 +21,8 @@ reviewed interfaces. Financial authority and permissions remain in the platform.
 
 ## Read next
 
+- [Rust core architecture](docs/RUST-CORE.md): reusable execution mechanics and proposed workspace
+- [Public/private sharing boundary](docs/SHARING-BOUNDARY.md): what can be shared and what remains organization-specific
 - [Scope and boundaries](docs/SCOPE.md)
 - [First implementation acceptance criteria](docs/ACCEPTANCE.md)
 - [Current repository status](STATUS.md)
